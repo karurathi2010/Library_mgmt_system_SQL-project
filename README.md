@@ -1,7 +1,8 @@
 # Library_mgmt_system_SQL-project
 ### Project Overview: Library Management System Using SQL
 The Library Management System (LMS) project aims to create an efficient database-driven solution for managing the activities and operations of a library. The system covers a wide range of functionalities that ensure seamless handling of books, members, employees, rentals, returns, and overdue books. The project includes a series of SQL tasks that address basic database operations (CRUD), complex queries, data analysis, and advanced SQL operations.
-![library](https://github.com/user-attachments/assets/af1db599-5551-4a4b-8dc1-821f76f7d65e)
+![image](https://github.com/user-attachments/assets/8ed52794-5638-4d76-8ad2-855df57e27ab)
+
 
 ### Objectives:
 The primary goal of this project is to manage and track library resources, including books, members, and employee activities. The system will allow users to:
